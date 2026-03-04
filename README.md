@@ -3,7 +3,7 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: Gabriel Tavares Pandino
+- Nome:Gabriel Tavares Pandino
 - Matricula: 1616535
 
 ## Tela de inspeção com navegador
