@@ -8,8 +8,8 @@ Coloque aqui os seus dados
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+![print da inspeção e da pagina html](imagem/Imagem da pagina feita com html.png) 
+![print da inspeção](imagem/Semana 2 - atividade pratica (inspeção para ver quantidade de arquivos).png)
 
 ## Orientações sobre Linguagem MarkDown
 
